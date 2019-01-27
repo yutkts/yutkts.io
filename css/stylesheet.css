@@ -1,0 +1,25 @@
+/* header宣言 */
+header {
+    height: 100px;
+    background-color: #088;
+}
+
+.title-logo {
+    float: left;
+}
+
+.contents-list {
+    float: left;
+}
+
+/* section */
+section {
+    height: 200px;
+    background-color: white;
+}
+
+/* footer */
+footer {
+    height: 100px;
+    background-color: #088;
+}
